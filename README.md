@@ -29,6 +29,9 @@
 <p align="left"> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://go.dev/" target="_blank" rel="noreferrer">
  </p>
 
+<h3 align="left">GitHub Profile Trophies 🏆</h3>
+<p>&nbsp;<img height=180em align="center" src="https://github-profile-trophy.vercel.app/?username=zeeshan564&theme=onedark" alt="zeeshanexe" /></p> 
+
 
 <h3 align="left">Stats 📈</h3>
 <p><img height=180em align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zeeshan564&langs_count=10&hide=cmake,html&theme=github_dark&show_icons=true&locale=en&layout=compact" alt="zeeshan564" /></p>
