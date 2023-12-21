@@ -30,13 +30,13 @@
  </p>
 
 <h3 align="left">GitHub Profile Trophies 🏆</h3>
-<p>&nbsp;<img height=180em align="center" src="https://github-profile-trophy.vercel.app/?username=zeeshan564&theme=onedark" alt="zeeshanexe" /></p> 
+<p>&nbsp;<img height=180em align="center" src="https://github-profile-trophy.vercel.app/?username=zeeshan23s&theme=onedark" alt="zeeshanexe" /></p> 
 
 
 <h3 align="left">Stats 📈</h3>
-<p><img height=180em align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zeeshan564&langs_count=10&hide=cmake,html&theme=github_dark&show_icons=true&locale=en&layout=compact" alt="zeeshan564" /></p>
+<p><img height=180em align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zeeshan23s&langs_count=10&hide=cmake,html&theme=github_dark&show_icons=true&locale=en&layout=compact" alt="zeeshan23s" /></p>
 
-<p>&nbsp;<img height=180em align="center" src="http://github-readme-streak-stats.herokuapp.com?user=zeeshan564&theme=dark&background=000000" alt="zeeshanexe" /></p> 
+<p>&nbsp;<img height=180em align="center" src="http://github-readme-streak-stats.herokuapp.com?user=zeeshan23s&theme=dark&background=000000" alt="zeeshanexe" /></p> 
 
-[![committers.top badge](https://user-badge.committers.top/pakistan/zeeshan564.svg)](https://user-badge.committers.top/pakistan/zeeshan564)
-<p> <img src="https://komarev.com/ghpvc/?username=zeeshan564&label=Profile%20views&color=0e75b6&style=flat" alt="zeeshan564" /> </p>
+[![committers.top badge](https://user-badge.committers.top/pakistan/zeeshan23s.svg)](https://user-badge.committers.top/pakistan/zeeshan23s)
+<p> <img src="https://komarev.com/ghpvc/?username=zeeshan23s&label=Profile%20views&color=0e75b6&style=flat" alt="zeeshan23s" /> </p>
