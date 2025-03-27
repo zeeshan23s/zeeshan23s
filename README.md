@@ -52,8 +52,8 @@
   <a href="https://www.linkedin.com/in/zeeshan23s/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://stackoverflow.com/users/17285534/muhammad-zeeshan-tassawar" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="30" width="40" />
+  <a href="https://www.hackerrank.com/profile/shanirajput20091" target="_blank">
+    <img align="center" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="HackerRank" height="50" width="50" />
   </a>
 </p>
 
